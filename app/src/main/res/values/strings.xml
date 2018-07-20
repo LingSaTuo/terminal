@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">终端桌面</string>
+    <string name="command_not_found">Failed execution, unknown command.</string>
+    <string name="version">
+         -----------------------------------\n
+        launcher version \&#34;1.0.0\&#34; 2018-07-16\n
+        app version \&#34;1.0.0\&#34;\n
+        app code 1\n
+        original true\n
+        Copyright expiration time NaN\n
+        -----------------------------------\n
+    </string>
+</resources>
